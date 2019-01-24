@@ -3,5 +3,6 @@ AndroidClientForTCPServer
 
 AndroidClientForJavaTCPServer
 
-This Project has been implemented by Android Studio.
-It's an Android Client to connect to java server.
+This Project is for my Third year Grad.
+
+It's an Android Client Chatting App allow users to chatwith to java server on PC,Linux,Mac or JVM support
